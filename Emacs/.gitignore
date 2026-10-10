@@ -1,0 +1,9 @@
+# Track only portable configuration and documentation.
+/*
+!/.gitignore
+!/README.md
+!/early-init.el
+!/init.el
+!/lisp/
+/lisp/*
+!/lisp/my-*.el
